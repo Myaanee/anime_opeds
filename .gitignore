@@ -1,0 +1,15 @@
+_temp/
+*.mkv
+*.mp4
+*.aac
+*.flac
+*.opus
+*.h264
+*.h265
+*.hevc
+*.mp3
+*.ac3
+*.yuv
+*.m4a
+*.raw
+*.t.ass
